@@ -651,7 +651,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .form-wrapper-cont {
-    margin-bottom: 8px ;
+    margin-bottom: 16px ;
 }
 .form-user-label {
     display: block;
@@ -769,7 +769,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .form-checkbox-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .button-form-submit{
